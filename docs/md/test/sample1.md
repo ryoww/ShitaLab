@@ -4,6 +4,8 @@
 -   bbb
 -   ccc
 
-![test](./assets/test.png)
+`test`
 
-![test2](/ShitaLab/public/assets/test2.png)
+![test](test.png)
+
+![test2](test2.png)
